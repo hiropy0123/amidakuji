@@ -1,4 +1,5 @@
-# amidakuji
+# amidakuji  
+Vue.jsとTypeScriptを使った『あみだくじアプリ』を作ってみます！
 
 ## Project setup
 ```
